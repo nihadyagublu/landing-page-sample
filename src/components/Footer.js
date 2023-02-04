@@ -14,15 +14,11 @@ const Footer = () => {
           <li>
             <b>Home</b>
           </li>
-          <li>
-            <a href="#home">Colorlib</a>
-          </li>
+
           <li>
             <a href="#home">About us</a>
           </li>
-          <li>
-            <a href="#home">Pratice Area</a>
-          </li>
+
           <li>
             <a href="#home">Services</a>
           </li>
@@ -36,36 +32,14 @@ const Footer = () => {
             <a href="#home">Privacy</a>
           </li>
         </ul>
-        <ul>
-          <li>
-            <b>Practic Area</b>
-          </li>
-          <li>
-            <a href="#home">Architect</a>
-          </li>
-          <li>
-            <a href="#home">Projects</a>
-          </li>
-          <li>
-            <a href="#home">Colorib</a>
-          </li>
 
-          <li>
-            <a href="#home">Free Templates</a>
-          </li>
-          <li>
-            <a href="#home">Wordpress Themes</a>
-          </li>
-        </ul>
         <ul>
           <li>
             <b>Services</b>
           </li>
+
           <li>
-            <a href="#home">Colorlib</a>
-          </li>
-          <li>
-            <a href="#home">Houese Renovation</a>
+            <a href="#home">House Renovation</a>
           </li>
           <li>
             <a href="#home">Interior Design</a>
